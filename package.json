@@ -1,0 +1,19 @@
+{
+  "name": "google-bs",
+  "version": "1.0.0",
+  "description": "This is a React-based Google Books Search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsully1990/GooGle-BS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsully1990/GooGle-BS/issues"
+  },
+  "homepage": "https://github.com/tsully1990/GooGle-BS#readme"
+}
